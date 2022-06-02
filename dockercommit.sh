@@ -1,0 +1,1 @@
+docker commit 6d77c9e5f9e7  sqlserver_fts
